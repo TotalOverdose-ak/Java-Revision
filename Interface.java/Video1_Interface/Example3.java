@@ -1,3 +1,4 @@
+package Video1_Interface;
 interface A {
 
     int age = 44; // ye static and final hote hai by default so we can access it by class name
